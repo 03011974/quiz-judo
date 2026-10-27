@@ -1,0 +1,4 @@
+QUIZ DE JUDÔ - VERSÃO DEFINITIVA
+
+Abra index.html mantendo a pasta imagens junto.
+8 categorias, 100 técnicas, alternativas dinâmicas, relatório de acertos/erros/percentual e revisão somente dos erros.
